@@ -1,0 +1,35 @@
+git init
+
+git status 
+
+(bash)
+touch hello.txt
+
+git status
+
+file>text change
+
+git status 
+
+(changes track)
+
+git add .
+
+git commit -m "ahcakj"
+
+git status 
+...........................................
+(push)
+
+git remote add origin <link>
+
+git push --set-upstream origin master
+............................................
+git pull 
+
+already up to date
+
+
+
+
+
